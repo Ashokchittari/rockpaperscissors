@@ -1,0 +1,9 @@
+.optionBtn {
+  height: 300px;
+  background-color: transparent;
+  border-width: 0px;
+  border-style: solid;
+}
+.optionsContainer {
+  margin: 30px;
+}
